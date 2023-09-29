@@ -1,2 +1,2 @@
 # privaterepoclonetask
-pulling private repo from github to local using ssh keys
+Screenshots of pulling private repo from github to local using ssh keys
